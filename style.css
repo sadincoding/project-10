@@ -1,0 +1,25 @@
+body{
+    font-family: "Caveat", cursive;
+    background-color: #ffffff;
+}
+a{
+    color: e97451;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+ul > li{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+h1 , p{
+    background-color:#8f4a4a;
+    padding: 50px;
+    border-radius: 30px;
+    font-size: 30px;
+}
+p::first-letter{
+    font-size: 60px;
+    color: ff9c7;
+}
